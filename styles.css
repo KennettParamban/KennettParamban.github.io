@@ -1,0 +1,23 @@
+body {
+	padding: 25px;
+ 	background-color: white;
+	color: black;
+	font-size: 25px;
+}
+img.profile {
+	max-width: 50%;
+	max-height: 50%;
+
+	/*height: 20px;*/
+	width: 100px;
+}
+button {
+	display: block;
+	flex-wrap: wrap;
+
+}
+
+.dark-mode {
+	background-color: black;
+	color: #999999;
+}
